@@ -1,4 +1,4 @@
-# TankStars 
+<h1>TenkStars</h1>
 
 This project is a clone of the popular game "TankStars" implemented in Java using the LibGDX framework.
 
